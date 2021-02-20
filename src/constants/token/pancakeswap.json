@@ -732,6 +732,14 @@
       "address": "0x71DE20e0C4616E7fcBfDD3f875d568492cBE4739",
       "chainId": 56,
       "decimals": 18
+    },
+    {
+      "name": "Newscrypto",
+      "symbol": "NWC",
+      "address": "0x968f6f898a6df937fc1859b323ac2f14643e3fed",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/NWC.png"
     }
   ]
 }
